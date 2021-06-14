@@ -1,0 +1,19 @@
+h1 {
+    color:ghostwhite;
+    font-style: italic;
+    padding: center;
+    position: center;
+    }
+
+body {
+    background-image: url(../HTML/Back.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p{
+    color: rgba(247, 14, 25, 0.932);
+    font-size: larger;
+    font-style: oblique;
+    font-display: cover;
+}
+
